@@ -3,14 +3,58 @@
   "slug": "tesco",
   "industry": "Retail / Supermarkets",
   "country": "United Kingdom",
-  "founded": "1919",
-  "founder": "Jack Cohen",
-  "brandIntroduced": "1924",
-  "currentLogo": "1995–present",
-  "designer": "Unknown",
-  "primaryColours": ["Red", "Blue", "White"],
-  "relatedBrands": ["Booker", "One Stop", "F&F", "Tesco Bank", "Tesco Mobile"],
+
+  "founded": {
+    "value": 1919,
+    "source": "Tesco PLC"
+  },
+
+  "founder": {
+    "value": "Jack Cohen",
+    "source": "Tesco PLC"
+  },
+
+  "brandIntroduced": {
+    "value": 1924,
+    "source": "Tesco PLC"
+  },
+
+  "currentLogo": {
+    "period": "1995–present",
+    "designer": {
+      "value": "Unknown",
+      "source": "No reliable attribution found"
+    }
+  },
+
+  "typography": {
+    "current": {
+      "style": "Sans-serif",
+      "closestFonts": [
+        "Aviano Flare Black",
+        "Arpona Semi Bold"
+      ],
+      "customised": true,
+      "source": "Logos-World"
+    }
+  },
+
+  "primaryColours": [
+    "Red",
+    "Blue",
+    "White"
+  ],
+
+  "relatedBrands": [
+    "Booker",
+    "One Stop",
+    "F&F",
+    "Tesco Bank",
+    "Tesco Mobile"
+  ],
+
   "summary": "Tesco is one of the United Kingdom's largest supermarket and retail brands.",
+
   "logoTimeline": [
     {
       "period": "Early years",
@@ -28,14 +72,19 @@
       "notes": "The current logo uses red lettering with blue stripe details beneath the wordmark."
     }
   ],
+
   "sources": [
     {
-      "name": "Tesco official company history",
-      "url": ""
+      "name": "Tesco PLC History",
+      "url": "https://www.tescoplc.com/about/our-history"
     },
     {
-      "name": "Logo history source",
-      "url": ""
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tesco"
+    },
+    {
+      "name": "Logos-World",
+      "url": "https://logos-world.net/tesco-logo/"
     }
   ]
 }
