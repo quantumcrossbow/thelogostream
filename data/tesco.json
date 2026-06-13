@@ -1,0 +1,41 @@
+{
+  "company": "Tesco",
+  "slug": "tesco",
+  "industry": "Retail / Supermarkets",
+  "country": "United Kingdom",
+  "founded": "1919",
+  "founder": "Jack Cohen",
+  "brandIntroduced": "1924",
+  "currentLogo": "1995–present",
+  "designer": "Unknown",
+  "primaryColours": ["Red", "Blue", "White"],
+  "relatedBrands": ["Booker", "One Stop", "F&F", "Tesco Bank", "Tesco Mobile"],
+  "summary": "Tesco is one of the United Kingdom's largest supermarket and retail brands.",
+  "logoTimeline": [
+    {
+      "period": "Early years",
+      "years": "1919–1960s",
+      "notes": "Early Tesco branding used practical shop signage and wordmarks rather than a unified modern identity."
+    },
+    {
+      "period": "Classic red wordmark",
+      "years": "1968–1995",
+      "notes": "A bold red Tesco wordmark became one of the company's most recognisable historic identities."
+    },
+    {
+      "period": "Current logo",
+      "years": "1995–present",
+      "notes": "The current logo uses red lettering with blue stripe details beneath the wordmark."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Tesco official company history",
+      "url": ""
+    },
+    {
+      "name": "Logo history source",
+      "url": ""
+    }
+  ]
+}
